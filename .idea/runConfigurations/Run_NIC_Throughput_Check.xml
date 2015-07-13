@@ -1,0 +1,5 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="Run NIC Throughput Check" type="NodeJSConfigurationType" factoryName="Node.js" path-to-node="C:/Program Files/nodejs/node" path-to-js-file="lib/check_snmp_win_nic-throughput.js" application-parameters="--interface=&quot;^Intel&quot;" working-dir="$PROJECT_DIR$">
+    <method />
+  </configuration>
+</component>
