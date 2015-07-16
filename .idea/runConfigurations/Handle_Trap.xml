@@ -1,5 +1,5 @@
 <component name="ProjectRunConfigurationManager">
-  <configuration default="false" name="Handle Trap" type="NodeJSConfigurationType" factoryName="Node.js" path-to-node="C:/Program Files/nodejs/node" path-to-js-file="lib/traphandler.js" application-parameters="--file=example/trap.txt" working-dir="$PROJECT_DIR$">
+  <configuration default="false" name="Handle Trap" type="NodeJSConfigurationType" factoryName="Node.js" path-to-node="C:/Program Files/nodejs/node" path-to-js-file="lib/traphandler.js" application-parameters="--file=example/trap-stp.txt" working-dir="$PROJECT_DIR$">
     <method />
   </configuration>
 </component>
